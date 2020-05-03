@@ -1,0 +1,26 @@
+npm uninstall -g react-native-cli
+ou
+yarn global remove react-native-cli
+
+yarn global add @react-native-community/cli
+npm i -g @react-native-community/cli
+
+npx react-native init appgobarber —template=react-native-template-typescript
+
+yarn ios
+
+yarn start = start o bundler
+
+yarn add eslint-import-resolver-typescript -D
+yarn add @types/styled-components -D
+
+instaler cooapods
+
+
+rodar o comando pod install dentro da pasta ios
+
+brew upgrade node
+
+pod install
+xcode-select -p  
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer

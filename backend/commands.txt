@@ -7,3 +7,11 @@ yarn typeorm migration:run
 yarn typeorm migration:revert
 
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+
+React Native
+rm -rf build
+react-native start --reset-cach
+
+React
+create-react-app primeiro-projeto-react --template=typescript
+
